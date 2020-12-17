@@ -1,6 +1,6 @@
 # eye_alarm
 
-Deze python-code heb ik   geschreven voor degenen die lange tijd achter de computer werken. Het programma waarschuwt de gebruiker om elke 20 minuten voor een pauze. 
+Deze python-script heb ik   geschreven voor degenen die lange tijd achter de computer werken. Het programma waarschuwt de gebruiker om elke 20 minuten voor een pauze. 
 
 Uit verschillende onderzoeken is naar voren gekomen, dat het verstandig is om regelmatig even weg te kijken van je beeldscherm. Puur om je ogen even een beetje rust te geven. Om ze weer in een neutrale stand te laten ontspannen.
 
